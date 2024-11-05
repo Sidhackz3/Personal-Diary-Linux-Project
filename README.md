@@ -1,2 +1,3 @@
 # Personal-Diary-Linux-Project
-Personal Diary Project using Linux
+A personal diary run at Linux terminal shell that give user option to choose and show output accordingly such as new entry, view entry, search, exit.
+
